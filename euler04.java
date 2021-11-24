@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class euler4 {
+public class euler04 {
   public static void main(String[] args) {
     ArrayList<Integer> mylist = new ArrayList<Integer>();
     int product = 0;

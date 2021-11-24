@@ -1,4 +1,4 @@
-public class euler7 {
+public class euler07 {
   public static void main(String[] args) {
     int max = 105000;
     int count = 0;

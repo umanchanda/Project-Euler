@@ -1,5 +1,5 @@
 import java.util.*;
-public class euler9 {
+public class euler09 {
   public static void main(String[] args) {
     int sum;
     for (int i = 1; i < 1000; i++) {

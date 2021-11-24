@@ -1,4 +1,4 @@
-public class euler6 {
+public class euler06 {
   public static void main(String[] args) {
     long squaresum = sum(100) * sum(100);
     long squaretotal = sum1(100) / 6;

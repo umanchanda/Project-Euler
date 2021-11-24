@@ -1,5 +1,5 @@
 import java.util.*;
-public class euler3 {
+public class euler03 {
   public static void main(String[] args) {
     long num = 600851475143L;
     for (long i = 1L; i < num; i++) {

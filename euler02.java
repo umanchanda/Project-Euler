@@ -1,4 +1,4 @@
-public class euler2 {
+public class euler02 {
   public static void main(String[] args) {
     double sum = 2;
     double a = 1;
