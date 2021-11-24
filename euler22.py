@@ -1,4 +1,4 @@
-with open('names.txt', 'r') as f:
+with open('euler22.txt', 'r') as f:
   s = f.read()
 
 n = s.split(",")
