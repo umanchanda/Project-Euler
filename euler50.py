@@ -13,7 +13,3 @@ while num < 1000:
 
 
 print(lst_of_primes)
-
-
-
-
