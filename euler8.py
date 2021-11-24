@@ -3,9 +3,9 @@ length = len(num)
 maxprod = 0
 currprod = 1
 for i in range(1, length-13):
-    currprod = 1
-    for j in range(i, i+13):
-        currprod = currprod * int(num[j-1:j])
-        if currprod > maxprod:
-            maxprod = currprod
+  currprod = 1
+  for j in range(i, i+13):
+    currprod = currprod * int(num[j-1:j])
+    if currprod > maxprod:
+      maxprod = currprod
 print(maxprod)
