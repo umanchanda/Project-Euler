@@ -1,4 +1,3 @@
-import java.util.*;
 public class euler09 {
   public static void main(String[] args) {
     int sum;

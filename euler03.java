@@ -1,4 +1,3 @@
-import java.util.*;
 public class euler03 {
   public static void main(String[] args) {
     long num = 600851475143L;
